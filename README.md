@@ -1,5 +1,5 @@
 # insomnia
-A sweet sleeping site that informs you how naps affect your mind/body. Also has an alarm clock.
+A sweet sleeping site that informs you how naps affect your mind/body. Also has an alarm clock so you can sleep immediately.
 
 Insomnia, or nap sweetly, is my first gentle attempt at learning and doing web stuff, created 
 during CalHacks 2.0 soon after a quick bit of crash course learning.
