@@ -1,0 +1,52 @@
+<!DOCTYPE html>  
+<html lang="en">  
+  <head>
+    <meta charset="utf-8">
+    <title>nap sweet</title>
+    <meta name="description" content="a guide to napping">
+    <meta name="author" content="Kristin Ho">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- styles -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="timer.jquery.js"></script>
+    <script src="script.js"></script>
+
+  </head>
+
+  
+  
+
+  <body>
+    <%- body %>
+    
+    <audio id="alarmsound" src="alarm.mp3"></audio>
+    
+
+    <div id="titleheader"><i><strong>Nap Sweetly</i></strong></div>
+    <div id="instructions"><i>Set timer: click any category to set an alarm.</i></div>     
+    <div id="timer"><strong></strong></div>
+
+    <div id="NASAcircle"><strong>Performance and Alertness (for Astronauts and other Humans): NASA Nap</strong></div>
+    <div id="NASAinfo" style="display: none;"><i>An influential 1995 NASA study found that a 26-minute 
+      nap, now often called the "NASA Nap" improved performance 34% and alertness 54%</i></div>
+
+      <div id="powernap"><strong>Quick Boost, Coordination, Alertness: Power Nap</strong></div>
+    <div id="powernapinfo" style="display: none;"><i>The 10-20-minute power nap sometimes is good for energy or 
+      alertness, coordinaton, and motor learning skills like playing the piano.</i></div>
+
+      <div id="sleepcycle"><strong>Creativity and Countering Sleep-deprivation: One Sleep Cycle</strong></div>
+    <div id="sleepcycleinfo" style="display: none;"><i>Taking a 90-minute nap is the same as 
+      one whole sleep-cycle, often shown to improve creativity and counter sleep-deprivation by
+      replacing a lost cycle from a sleepless night!</i></div>
+
+      <div id="memory"><strong>Memory Boost</strong></div>
+    <div id="memoryinfo" style="display: none;"><i>A 60-minute nap may lead to a period of fogginess, as you will be waking up in the middle of a sleep cycle, but is shown to boost your memory and recall.</i></div>
+
+  </body>
+</html>  

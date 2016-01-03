@@ -1,0 +1,122 @@
+body{
+	background-color: black;
+	color: white;
+}
+
+#titleheader{
+	font-size: 100px;
+
+}
+
+#instructions{
+	font-family: Sans-Serif;
+}
+
+#timer{
+	font-size: 90px;
+}
+
+#NASAcircle {
+	border-radius: 50px;
+	width: 100px;
+	height: 100px;
+	padding: 50px;	
+	margin-left: 5%;
+	margin-top: 5%;
+	background: rgb(185, 211, 238);
+	font-family: serif;
+	text-align: center;
+}
+
+#NASAinfo{
+
+	border-radius: 50px;
+	width: 150px;
+	height: 150px;
+	padding: 40px;
+	margin-left: 5%;
+	margin-top: 7%;
+	background: rgb(159, 182, 205);
+	font-family: sans-serif;
+	text-align: left;
+
+}
+
+#powernap {
+	border-radius: 50px;
+	width: 100px;
+	height: 100px;
+	padding: 50px;	
+	margin-left: 30%;
+	margin-top: 0%;
+	background: rgb(189, 252, 201);
+	font-family: serif;
+	text-align: center;
+}
+
+#powernapinfo{
+
+	border-radius: 50px;
+	width: 150px;
+	height: 150px;
+	padding: 40px;
+	margin-left: 30%;
+	margin-top: 7%;
+	background: rgb(78, 238, 148);
+	font-family: sans-serif;
+	text-align: left;
+
+}
+
+#sleepcycle {
+	border-radius: 50px;
+	width: 100px;
+	height: 100px;
+	padding: 50px;	
+	margin-left: 50%;
+	margin-top: 0%;
+	background: rgb(229, 204, 255);
+
+	font-family: serif;
+	text-align: center;
+}
+
+#sleepcycleinfo{
+
+	border-radius: 50px;
+	width: 150px;
+	height: 150px;
+	padding: 40px;
+	margin-left: 50%;
+	margin-top: 7%;
+	background: rgb(204, 204, 255);
+	font-family: sans-serif;
+	text-align: left;
+}
+
+#memory {
+	border-radius: 50px;
+	width: 100px;
+	height: 100px;
+	padding: 50px;	
+	margin-left: 70%;
+	margin-top: 0%;
+	background: rgb(255, 204, 204);
+	font-family: serif;
+	text-align: center;
+}
+
+#memoryinfo{
+
+	border-radius: 50px;
+	width: 150px;
+	height: 150px;
+	padding: 40px;
+	margin-left: 70%;
+	margin-top: 7%;
+	background: rgb(255, 229, 204);
+	font-family: sans-serif;
+	text-align: left;
+
+}
+
