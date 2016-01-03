@@ -2,7 +2,7 @@
 A sweet sleeping site that informs you how naps affect your mind/body. Also has an alarm clock.
 
 Insomnia, or nap sweetly, is my first gentle attempt at learning and doing web stuff, created 
-a little bit of crash course learning in CalHacks 2.0. 
+during CalHacks 2.0 soon after a quick bit of crash course learning.
 
 Nap sweetly is just a simple site that allows people to avoid the negative side effects of napping
 improperly, e.g. sleep inertia. 
