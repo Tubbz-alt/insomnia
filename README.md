@@ -16,3 +16,5 @@ and click to begin the nap alarm clock.
 
 Always in progress, as my first experimental web project. Potential future stages include cleaning up the look and design,
 including pages for the science behind the info presented, user ratings, etc. 
+
+Uses node.js, ejs, express.
